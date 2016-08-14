@@ -1,0 +1,17 @@
+{
+  "name": "brainly_bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "dependencies": {
+    "a9-db": "0.0.5",
+    "slug": "0.9.1",
+    "ws": "1.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "artur99",
+  "license": "ISC"
+}
